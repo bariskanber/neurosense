@@ -37,7 +37,7 @@ You will need VirtualBox to run the Neurosense virtual machine. If you do not al
 * Any queries can be sent to [b.kanber@ucl.ac.uk](mailto:b.kanber@ucl.ac.uk).
 
 ## Sample Output
-![SampleOutput](/uploads/f3cf436358587229ee6b8d802a7f1d1f/SampleOutput.png)
+<img width="556" alt="SampleOutput" src="https://user-images.githubusercontent.com/12815964/157304777-d7a9b85d-8224-4165-9003-4da43edbfe76.png">
 
 ## Acknowledgements
 If you use Neurosense for your research, please acknowledge our publication below:
